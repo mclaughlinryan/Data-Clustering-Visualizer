@@ -6,6 +6,24 @@ This is a graphical user interface application that allows the user to visualize
 
 The file containing the data must have data points with the same set of features and the features must be comma separated. The data points could also have classifications assigned to them as the last value in the file line.
 
-#### Example
+#### Application
 
-<img width="400" alt="data clustering visualizer" src="https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/ce8b8d95-c2b4-41bc-9249-5a3d769d93a7">
+<img width="600" alt="data clustering visualizer" src="https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/ce8b8d95-c2b4-41bc-9249-5a3d769d93a7">
+
+Clustering algoriths that can be used:
+- K-means
+- Mean shift
+- DBSCAN
+- HDBSCAN
+- Gaussian mixture models
+- Agglomerative clustering
+- Affinity propagation
+- Spectral clustering
+- BIRCH
+- OPTICS
+
+The data clustering is done on numeric values for features so if the data contains non-numeric values there are a few options for how they are handled:
+- Assigning all non-numeric values to 0
+- Assigning a number to each different non-numeric value
+- Excluding data points with non-numeric values
+- Excluding features with non-numeric values
