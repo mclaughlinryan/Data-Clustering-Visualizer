@@ -4,7 +4,7 @@ This application allows the user to visualize the clustering of data through sel
 
 #### Data File Format
 
-The file containing the data must have data points with the same set of features and the features must be comma separated. The data points could also have classifications assigned to them as the last value in the file line.
+The file containing the data must have data points with the same set of features and the features must be comma separated. The data points could also have classifications assigned to them as the last value in the file line. An example of this can be seen in the `species_data.txt` file.
 
 #### Interface
 
