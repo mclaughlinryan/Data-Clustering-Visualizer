@@ -8,4 +8,4 @@ The file containing the data must have data points with the same set of features
 
 #### Example
 
-<img width="604" alt="data clustering visualizer" src="https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/59ff1872-dbd3-4963-90be-8d20a0604fb6">
+![Data Clustering Visualizer](https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/59ff1872-dbd3-4963-90be-8d20a0604fb6.jpg)
