@@ -4,4 +4,4 @@ This is a graphical user interface application that allows the user to visualize
 
 #### Data File Format
 
-The data file must contain data points that have the same set of features and that the features are comma separated. The data points could also have classifications already assigned to them as the last value in the file line.
+The file containing the data must have data points with the same set of features that are comma separated. The data points could also have classifications already assigned to them as the last value in the file line.
