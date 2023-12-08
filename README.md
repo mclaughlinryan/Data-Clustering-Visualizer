@@ -10,8 +10,8 @@ The file containing the data must have data points with the same set of features
 
 <img width="600" alt="data clustering visualizer" src="https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/ce8b8d95-c2b4-41bc-9249-5a3d769d93a7">
 
-\ 
 \
+\ 
 
 Clustering algorithms that can be used:
 - K-means
