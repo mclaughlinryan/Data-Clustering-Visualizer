@@ -1,6 +1,6 @@
 # Data-Clustering-Visualizer
 
-This is a graphical user interface application that allows the user to visualize the clustering of data through selection from several different clustering algorithms and side-by-side comparison of different clusterings.
+This is a graphical user interface application that allows the user to visualize the clustering of data through selection from several different clustering algorithms as well as side-by-side comparison of different data clusterings.
 
 #### Data File Format
 
