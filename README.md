@@ -6,7 +6,7 @@ This application allows the user to visualize the clustering of data through sel
 
 The file containing the data must have data points with the same set of features and the features must be comma separated. The data points could also have classifications assigned to them as the last value in the file line. An example of this can be seen in the `species_data.txt` file.
 
-#### Interface
+#### Application
 
 <img width="500" alt="data clustering visualizer" src="https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/ce8b8d95-c2b4-41bc-9249-5a3d769d93a7">
 
