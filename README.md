@@ -31,4 +31,5 @@ The data clustering is done on numeric values so if features contain non-numeric
 - Excluding features with non-numeric values
 
 Different data clusterings can also be viewed side by side:
+
 <img width="900" alt="data clustering visualizer 2" src="https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/15f7a43b-394c-484b-ae1e-8678b314eaee">
