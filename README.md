@@ -10,6 +10,7 @@ The file containing the data must have data points with the same set of features
 
 <img width="600" alt="data clustering visualizer" src="https://github.com/mclaughlinryan/Data-Clustering-Visualizer/assets/150348966/ce8b8d95-c2b4-41bc-9249-5a3d769d93a7">
 
+<br/>
 
 Clustering algorithms that can be used:
 - K-means
@@ -23,7 +24,7 @@ Clustering algorithms that can be used:
 - BIRCH
 - OPTICS
 
-The data clustering is done on numeric values for features so if the data contains non-numeric values there are a few options for how they are handled:
+The data clustering is done on numeric values so if features contain non-numeric values there are a few options for how they are handled:
 - Assigning all non-numeric values to 0
 - Assigning a number to each different non-numeric value
 - Excluding data points with non-numeric values
